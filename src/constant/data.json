@@ -1,0 +1,44 @@
+[
+  {
+    "_id": 1,
+    "category": "CSPM Executive dashboard",
+    "widget": [
+      {
+        "name": "Cloud Accounts",
+        "text": "CSPM Executive dashboard content"
+      },
+      {
+        "name": "Cloud Accounts Risk Assessment",
+        "text": "Cloud Accounts Risk Assessment content"
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "category": "CWPP Dashboard",
+    "widget": [
+      {
+        "name": "Top 5 Namespace Specific Alerts",
+        "text": "No Data Available"
+      },
+      {
+        "name": "Workload Alerts",
+        "text": "No Data Available"
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "category": "Registory Scan",
+    "widget": [
+      {
+        "name": "Image Risk Assessment",
+        "text": "No Data Available"
+      },
+      {
+        "name": "Image Security Issue",
+        "text": "No Data Available"
+      }
+    ]
+  }
+]
