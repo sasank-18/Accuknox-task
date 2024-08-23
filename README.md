@@ -1,4 +1,28 @@
-Deployed Link : https://task-accuknox.netlify.app/
+### **Deployed Link : https://task-accuknox.netlify.app/**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+# Quick Setup Locally
+> Clone the Repository
+```
+git clone https://github.com/sasank-18/Accuknox-task.git
+```
+> Navigate to the Project
+```
+cd Accuknox-task
+```
+> Install the Dependency
+```
+npm install
+npm run dev
+```
+
+# Feature
+```
+> Add a Widget in a Category
+> Delete the Widget
+> Search Functionality 
+```
+# TechStack
+**`React.js`** **`Redux-Toolkit`** **`Zod`** **`Tailwind`** 
+
